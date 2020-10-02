@@ -25,7 +25,7 @@ Do not worry, I have given these two addional folders for graphics used in games
 
 The main directory named "python Games Files" contains all additional folders mentioned below.
 
-# Note : "docs" and "freegames" (Not need to modify or run). Just paste these two folders in the directory where all the games files are being pasted. (If you try to manage folders or directories) 
+Note : "docs" and "freegames" (Not need to modify or run). Just paste these two folders in the directory where all the games files are being pasted. (If you try to manage folders or directories) 
 
 Ant, Pacman , Pong, Tron these games requires those additional folders/diretories for graphics.
 
