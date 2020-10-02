@@ -5,3 +5,10 @@
  
  2. Game file Modified version
  
+Features : 
+
+1. Single player games.
+
+2. Also some of them are Multiplayer(two player) games too.
+
+Enjoy!
