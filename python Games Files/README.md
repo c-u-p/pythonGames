@@ -1,5 +1,13 @@
 #Files here are named as per game
- Games files in this folder are available in two versions : 
+For Players : 
+
+Experience the change in modified and actual version of the games.
+
+For Developers : 
+
+Find out that how games are modified and feel free to edit and comment about the code.
+
+Games files in this folder are available in two versions : 
  
  1. Game file
  
@@ -12,3 +20,4 @@ Features :
 2. Also some of them are Multiplayer(two player) games too.
 
 Enjoy!
+
